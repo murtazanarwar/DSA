@@ -35,5 +35,9 @@ int main() {
     // Clearing the unordered_map
     ages.clear();
 
+    //creat a frequency map
+    // for (auto i: nums) {
+    //         counts[i]++;
+    // }
     return 0;
 }
